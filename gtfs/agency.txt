@@ -1,0 +1,13 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+GOW,GO Wellington,http://www.metlink.org.nz,Pacific/Auckland,en,
+NLDS,Newlands Coach Services,http://www.metlink.org.nz,Pacific/Auckland,en,
+MANA,Mana Coach Services Ltd,http://www.metlink.org.nz,Pacific/Auckland,en,
+VLYF,Valley Flyer,http://www.metlink.org.nz,Pacific/Auckland,en,
+RUNC,Runcimans Motors Ltd,http://www.metlink.org.nz,Pacific/Auckland,en,
+TZWA,Tranzit Coachlines Wairarapa,http://www.metlink.org.nz,Pacific/Auckland,en,
+KCTL,Kapiti Coach Tours Limited,http://www.metlink.org.nz,Pacific/Auckland,en,
+MADG,Madge Coachlines Limited,http://www.metlink.org.nz,Pacific/Auckland,en,
+RAIL,Tranz Metro,http://www.metlink.org.nz,Pacific/Auckland,en,
+TRAN,Tranz Scenic,http://www.metlink.org.nz,Pacific/Auckland,en,
+EBYW,East by West Ferry,http://www.metlink.org.nz,Pacific/Auckland,en,
+WCCL,Wellington Cable Car Ltd,http://www.metlink.org.nz,Pacific/Auckland,en,

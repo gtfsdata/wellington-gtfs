@@ -1,0 +1,13 @@
+The information contained within the General Transit Feed Specification
+(GTFS) has been compiled in good faith from sources that are believed to be
+reliable.  However, users of the GTFS are advised that unless required by
+law, Greater Wellington Regional Council does not accept any responsibility
+or liability for any action taken or omission made as a result of reliance
+placed on Greater Wellington Regional Council because of having used the
+GTFS.
+
+Greater Wellington Regional Council reserve the right to discontinue the
+publication of the General transit feed specification and/or to modify the
+url of the feed without notice.  Greater Wellington Regional Council will
+not be liable for any modification, suspension or discontinuance of the
+service.
