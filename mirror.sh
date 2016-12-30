@@ -10,8 +10,8 @@
 # To Public License, Version 2, as published by Sam Hocevar. See
 # http://sam.zoy.org/wtfpl/COPYING for more details.
 
-DATA_ZIP="http://www.metlink.org.nz/assets/Google_Transit/googletransit.zip"
-DATA_ZIPFILENAME="googletransit.zip"
+DATA_ZIP="https://www.metlink.org.nz/assets/Google_Transit/google-transit.zip"
+DATA_ZIPFILENAME="google-transit.zip"
 
 # Create the target folder
 mkdir -p "gtfs"
