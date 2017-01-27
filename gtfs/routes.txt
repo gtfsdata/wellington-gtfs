@@ -1,323 +1,107 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-990,RUNC,990,Silverstream - Upper Hutt College,,6,,00364a,ffffff
 17,GOW,17,Victoria University - Wellington,,3,,00364a,ffffff
-854,VLYF,854,Petone Station - Hutt Central Schools,,6,,00364a,ffffff
-717,GOW,717,Wellington College - Miramar & Seatoun,,6,,00364a,ffffff
-510,MANA,510,Waikanae Beach - Paraparaumu College,,6,,00364a,ffffff
+N5,NLDS,N5,After Midnight (Newlands - Churton Park - Johnsonvillle),,3,,00364a,ffffff
 120,VLYF,120,Stokes Valley - Lower Hutt,,3,,00364a,ffffff
 145,VLYF,145,Belmont - Lower Hutt,,3,,00364a,ffffff
-755,GOW,755,Rongotai College - Wellington Station via Newtown,,6,,00364a,ffffff
 84,VLYF,84,Gracefield - Petone - Wellington,,3,,00364a,ffffff
 170,VLYF,170,Lower Hutt - Wainuiomata South - Lower Hutt,,3,,00364a,ffffff
 90,VLYF,90,Stokes Valley Commuter (Stokes Valley - Wellington),,3,,8f8f8c,ffffff
-536,MANA,536,Paraparaumu Station - Kapiti College,,6,,00364a,ffffff
-788,GOW,788,Scots College - Wellington Station via Roseneath,,6,,00364a,ffffff
-991,RUNC,991,Heretaunga College - Birchville & Te Marua,,6,,00364a,ffffff
-727,VLYF,727,Island Bay - Basin Schools,,6,,00364a,ffffff
+24,GOW,24,Miramar Heights - Wellington,,3,,00364a,ffffff
+202,TZWA,202,Masterton South,,3,,00364a,ffffff
+115,VLYF,115,Upper Hutt - Pinehaven - Upper Hutt,,3,,00364a,ffffff
+43,GOW,43,Strathmore Park - Wellington - Khandallah (Loop Service ),,3,,00364a,ffffff
+055,NLDS,055,Grenada Village - Johnsonville - Wellington,,3,,00364a,ffffff
 85,VLYF,85,Eastbourne Express (Eastbourne - Wellington),,3,,00364a,ffffff
+30,GOW,30,Seatoun Express (Breaker Bay/Scorching Bay - Wellington),,3,,00364a,ffffff
+058,NLDS,058,Newlands - Wellington,,3,,00364a,ffffff
 N3,GOW,N3,After Midnight (Wellington - Karori - Northland),,3,,00364a,ffffff
-744,GOW,744,"Wellington College - Wgtn Station, Wilton & Northland",,6,,00364a,ffffff
-445,MANA,445,"Aotea College - Ascot Park, Cannons Creek & Porirua",,6,,00364a,ffffff
 13,GOW,13,Wellington - Mairangi,,3,,00364a,ffffff
-627,NLDS,627,Johnsonville West - Newlands College and Intermediate,,6,,00364a,ffffff
 3S,GOW,3S,Karori South - Wellington,,3,,00364a,ffffff
-735,GOW,735,"Wgtn East Girls - Vogeltown, Kingston & Brooklyn",,6,,00364a,ffffff
-674,GOW,674,"Khandallah, Ngaio & Wilton - Marsden School",,6,,00364a,ffffff
-739,GOW,739,Wellington College - Wrights Hill Karori,,6,,00364a,ffffff
-774,GOW,774,"Houghton Bay, Owhiro Bay & Island Bay - Sth Wgtn Inter, St Pat's, St Cath's & Rongotai",,6,,00364a,ffffff
-846,VLYF,846,Hutt Valley High - Kelson,,6,,00364a,ffffff
-618,GOW,618,"Mairangi - Queen Margaret, Wellington Girls, St Mary's College",,6,,00364a,ffffff
-761,GOW,761,St Patrick's College - Strathmore Park,,6,,00364a,ffffff
+160,VLYF,160,Wainuiomata North - Lower Hutt,,3,,00364a,ffffff
 056,NLDS,056,Paparangi - Wellington,,3,,00364a,ffffff
-762,GOW,762,Rongotai College - Miramar & Seatoun,,6,,00364a,ffffff
 211,MANA,211,Porirua - Johnsonville - Wellington,,3,,8f8f8c,ffffff
 N88,VLYF,N88,After Midnight (Wellington - Eastbourne),,3,,00364a,ffffff
 31,GOW,31,Miramar North Express (Miramar - Wellington),,3,,00364a,ffffff
-775,GOW,775,St Patrick's College - Newtown & Island Bay,,6,,00364a,ffffff
+28,GOW,28,Beacon Hill Shuttle (Beacon Hill - Strathmore),,3,,00364a,ffffff
+121,VLYF,121,Valley Heights (Gracefield - Stokes Valley - Gracefield),,3,,00364a,ffffff
+289,KCTL,289,Kapiti Commuter (Waikanae - Wellington),,3,,8f8f8c,ffffff
 92,RUNC,92,Upper Hutt Commuter (Te Marua - Wellington),,3,,8f8f8c,ffffff
-613,GOW,613,Karori Mall - Wellington Girls & St Mary's College,,6,,00364a,ffffff
-659,GOW,659,"Houghton Valley School - Melrose, Newtown & Courtenay Place",,6,,00364a,ffffff
-617,GOW,617,Queen Margaret College - Kelburn & Karori,,6,,00364a,ffffff
+4,GOW,4,Happy Valley - Wellington,,3,,00364a,ffffff
+204,TZWA,204,Greytown - Woodside Station,,3,,00364a,ffffff
 N1,GOW,N1,After Midnight (Wellington - Island Bay - Lyall Bay),,3,,00364a,ffffff
-692,GOW,692,Onslow College & Raroa Intermediate - Northland & Kelburn,,6,,00364a,ffffff
-751,GOW,751,Wellington Station (Vic Law School) - Kilbirnie Schools,,6,,00364a,ffffff
-785,GOW,785,Scots College - Wellington Station via Miramar Ave,,6,,00364a,ffffff
+052,NLDS,052,Johnsonville - Newlands - Wellington,,3,,00364a,ffffff
 206,TZWA,206,Masterton East,,3,,00364a,ffffff
-626,NLDS,626,Johnsonville & Churton Park North - Newlands College and Intermediate,,6,,00364a,ffffff
 6,GOW,6,Lyall Bay - Wellington,,3,,00364a,ffffff
-N8,VLYF,N8,After Midnight (Lower Hutt - Wellington),,3,,00364a,ffffff
-629,NLDS,629,Newlands College/Intermediate - Johnsonville West,,6,,00364a,ffffff
+1,GOW,1,Island Bay - Wellington,,3,,00364a,ffffff
 97H,MANA,97H,Polytech Link (Weltec Petone - Haywards - Whitireia Porirua),,3,,8f8f8c,ffffff
+N8,VLYF,N8,After Midnight (Lower Hutt - Wellington),,3,,00364a,ffffff
 260,MANA,260,Raumati Beach - Paraparaumu Beach - Paraparaumu,,3,,00364a,ffffff
+93,RUNC,93,Upper Hutt Commuter (Timberlea - Wellington),,3,,8f8f8c,ffffff
+205,TZWA,205,Featherston - Martinborough,,3,,00364a,ffffff
 11,GOW,11,Seatoun - Wellington,,3,,00364a,ffffff
-628,NLDS,628,Churton Park South & Paparangi - Newlands College and Intermediate,,6,,00364a,ffffff
 154,VLYF,154,Petone - Korokoro - Petone,,3,,00364a,ffffff
 226,MANA,226,Sievers Grove - Elsdon - Sievers Grove,,3,,00364a,ffffff
-901,RUNC,901,Brown Owl - St Patrick's College,,6,,00364a,ffffff
 22,GOW,22,Southgate - Wellington - Mairangi,,3,,00364a,ffffff
-875,CLSC,875,Wainuiomata South - Wainuiomata Intermediate/High & St Claudine Thevenet Sch,,6,,00364a,ffffff
+3,GOW,3,Karori - Wellington - Lyall Bay,,3,,00364a,ffffff
 7,GOW,7,Kingston - Wellington,,3,,00364a,ffffff
-658,GOW,658,Newtown & Melrose - Houghton Valley School,,6,,00364a,ffffff
-651,GOW,651,Seatoun and St Anthony's Sch's - Moa Point,,6,,00364a,ffffff
-614,GOW,614,Wellington Girls & St Mary's College - Kelburn & Karori Wrights Hill,,6,,00364a,ffffff
+N4,GOW,N4,After Midnight (Wellington - Wadestown - Khandallah),,3,,00364a,ffffff
+251,PTXL,251,"Paekakariki & Raumati South Shopper (To Coastlands on Tuesday, Thursday & Friday)",,3,,00364a,ffffff
 97N,MANA,97N,Polytech Link (Porirua Station - Ngauranga - Weltec Petone),,3,,8f8f8c,ffffff
-886,CLSC,886,Muritai and San Antonio Schools - Hutt Valley High School,,6,,00364a,ffffff
-716,GOW,716,"St Mark's School - Hataitai, Kilbirnie, Miramar & Seatoun",,6,,00364a,ffffff
-868,VLYF,868,St Bernard's College - Wainuiomata North,,6,,00364a,ffffff
-742,GOW,742,Basin Reserve - Miramar Heights,,6,,00364a,ffffff
-736,GOW,736,"Karori Mall, Wrights Hill & Kelburn - Basin Reserve",,6,,00364a,ffffff
-848,VLYF,848,Lower Hutt Primary Schools - Harbour View,,6,,00364a,ffffff
+114,VLYF,114,Trentham - Upper Hutt,,3,,00364a,ffffff
+CCL,WCCL,CCL,Cable Car (Kelburn - Wellington),,5,,db2032,ffffff
 10,GOW,10,Newtown - Wellington,,3,,00364a,ffffff
-793,GOW,793,Scots College - Kelburn & Karori,,6,,00364a,ffffff
-916,RUNC,916,Pinehaven - Upper Hutt College,,6,,00364a,ffffff
+5,GOW,5,Wellington - Hataitai (Loop Service),,3,,00364a,ffffff
 32,GOW,32,Island Bay Express (Island Bay - Wellington),,3,,00364a,ffffff
-725,GOW,725,Houghton Bay - Basin Schools,,6,,00364a,ffffff
-743,GOW,743,Wilton & Wadestown - Basin Reserve,,6,,00364a,ffffff
-453,MANA,453,Pauatahanui School - Whitby,,6,,00364a,ffffff
+JVL,RAIL,JVL,Johnsonville Line (Johnsonville - Wellington),,2,,00364a,ffffff
+WHF,EBYW,WHF,Wellington Harbour Ferry (Days Bay - Queens Wharf),,4,,00364a,ffffff
 270,MANA,270,Paraparaumu East - Paraparaumu,,3,,00364a,ffffff
-904,RUNC,904,Upper Hutt Station - Chilton St James,,6,,00364a,ffffff
-712,GOW,712,"Miramar, Kilbirnie & Hataitai - Rongotai, St Pat's, Wgtn East, Wgtn Coll & St Mark's",,6,,00364a,ffffff
 46,GOW,46,Broadmeadows - Wellington,,3,,00364a,ffffff
 300,MANA,300,From Whenua Tapu Cemetery (runs last Sunday of each month),,3,,00364a,ffffff
 200,TZWA,200,Masterton - Featherston,,3,,00364a,ffffff
-931,RUNC,931,Upper Hutt - Sacred Heart College.,,6,,00364a,ffffff
-250,MANA,250,Paraparaumu - Raumati South - Paraparaumu,,3,,00364a,ffffff
-783,GOW,783,Wellington Station (Vic Law School) - Scots College via Mt Victoria Tunnel,,6,,00364a,ffffff
-220,MANA,220,Titahi Bay - Ascot Park - Titahi Bay,,3,,00364a,ffffff
-715,GOW,715,"Lyall Bay, Kilbirnie & Hataitai - Wgtn East Girls and Basin Schools",,6,,00364a,ffffff
-752,GOW,752,Wellington Station (Vic Law School) - St. Patrick's & Evans Bay Sch's,,6,,00364a,ffffff
-263,PTXL,263,Otaihanga Shopper (To Coastlands & Paraparaumu on Tuesday & Thursday),,3,,00364a,ffffff
-849,VLYF,849,Harbour View - Hutt Central Schools,,6,,00364a,ffffff
-794,GOW,794,Wellington Station - Scots College via Mt Victoria Tunnel,,6,,00364a,ffffff
-80,VLYF,80,Wainuiomata Commuter (Wainuiomata - Wellington),,3,,8f8f8c,ffffff
-951,RUNC,951,Boulcott - St Patrick's & HIBS,,6,,00364a,ffffff
-622,GOW,622,"St Mary's, Wellington Girls & Queen Margaret - Hataitai, Kilbirnie & Miramar",,6,,00364a,ffffff
-750,VLYF,750,Wellington Station (Vic Law School) - St Patrick's College,,6,,00364a,ffffff
-130,VLYF,130,Naenae - Petone,,3,,00364a,ffffff
-45,GOW,45,Ngaio - Wellington,,3,,00364a,ffffff
-753,GOW,753,St Patrick's College - Wellington Station,,6,,00364a,ffffff
-826,VLYF,826,Stokes Valley East - Avalon Intermediate,,6,,00364a,ffffff
-719,GOW,719,Wellington High School - Kilbirnie & Miramar,,6,,00364a,ffffff
-236,MANA,236,Whitby (Navigation Drive) - Paremata - Porirua,,3,,00364a,ffffff
-81,VLYF,81,Eastbourne - Petone - Wellington,,3,,00364a,ffffff
-870,VLYF,870,St Claudine Thevenet School - Wainuiomata North,,6,,00364a,ffffff
-505,MANA,505,"Waikanae North - Kapanui, Waikanae & St Patrick's Schools",,6,,00364a,ffffff
-668,GOW,668,St. Teresa's and Karori West Schools - Karori West,,6,,00364a,ffffff
-724,GOW,724,"Wgtn East Girls - Newtown, Kilbirnie & Seatoun",,6,,00364a,ffffff
-23,GOW,23,Houghton Bay - Wellington - Mairangi,,3,,00364a,ffffff
-930,RUNC,930,"Te Marua, Birchville & Timberlea - Upper Hutt College & Fergusson Intermediate",,6,,00364a,ffffff
-842,VLYF,842,Kelson - Hutt Central Schools,,6,,00364a,ffffff
-680,NLDS,680,Churton Park - Raroa Intermediate,,6,,00364a,ffffff
-923,RUNC,923,Maidstone Intermediate - Timberlea,,6,,00364a,ffffff
-667,GOW,667,Karori West - St Teresa's and Karori West Schools,,6,,00364a,ffffff
-290,MADG,290,Waikanae - Otaki - Waikanae,,3,,00364a,ffffff
-721,GOW,721,Wgtn East Girls - Lyall Bay,,6,,00364a,ffffff
-754,GOW,754,Rongotai College - Wellington Station via Hataitai,,6,,00364a,ffffff
-508,MANA,508,Waikanae - Paraparaumu College,,6,,00364a,ffffff
-649,GOW,649,Strathmore - St Anthony's and Seatoun Schools,,6,,00364a,ffffff
-907,RUNC,907,"Birchville & Timberlea - Heretaunga Coll / Timberlea - Oxford Cres, St Joseph's & Maidstone",,6,,00364a,ffffff
-738,GOW,738,St Marks School & St Marys College - Karori,,6,,00364a,ffffff
-403,MANA,403,Porirua Station - Tawa College/Intermediate,,6,,00364a,ffffff
-747,GOW,747,St. Mark's Sch - Khandallah,,6,,00364a,ffffff
-737,GOW,737,Karori & Kelburn - Basin Reserve,,6,,00364a,ffffff
-771,GOW,771,"Rongotai, St Pat's, & Basin - Vogeltown, Kingston & Kowhai Park",,6,,00364a,ffffff
-700,GOW,700,Wellington Station (Vic Law School) - Basin Reserve,,6,,00364a,ffffff
-825,VLYF,825,Stokes Valley West - Avalon Intermediate,,6,,00364a,ffffff
-N22,VLYF,N22,After Midnight (Wellington - Naenae - Stokes Valley - Upper Hutt),,3,,00364a,ffffff
-401,MANA,401,Whitby (Navigation Drive) - Tawa Intermediate and College,,6,,8f8f8c,ffffff
-280,MANA,280,Waikanae - Waikanae Beach - Waikanae,,3,,00364a,ffffff
-780,GOW,780,Strathmore Park - Kahurangi School,,6,,00364a,ffffff
-645,NLDS,645,Johnsonville (Haumia Street) - West Park and St Brigid's Schools,,6,,00364a,ffffff
-530,MANA,530,Kapiti College - Paraparaumu Station,,6,,00364a,ffffff
-402,MANA,402,Grenada North - Tawa Intermediate/College/School & Redwood School,,6,,00364a,ffffff
-924,RUNC,924,Upper Hutt - Sacred Heart College,,6,,00364a,ffffff
-935,RUNC,935,"Totara Park - Oxford Crescent Sch, St Joseph's, Maidstone Intermediate",,6,,00364a,ffffff
-624,GOW,624,"St Marys, Wellington Girls & Queen Margaret - Brooklyn & Kingston",,6,,00364a,ffffff
-927,RUNC,927,Te Marua - Heretaunga College,,6,,00364a,ffffff
-782,GOW,782,Wellington Station (Vic Law School) - Scots College via Roseneath,,6,,00364a,ffffff
-25,GOW,25,Strathmore - Wellington,,3,,00364a,ffffff
-621,GOW,621,"Miramar, Kilbirnie & Hataitai - St Mary's, Wellington Girls & Queen Margaret",,6,,00364a,ffffff
-353,TZWA,353,Martinborough & Ponatahi - Masterton Schools,,6,,8f8f8c,ffffff
-665,GOW,665,"Marsden School - Oriental Bay, Kilbirnie, Miramar, Seatoun & Moa Point",,6,,00364a,ffffff
-638,GOW,638,Cashmere Avenue  St Benedict's and Khandallah Schools - Broadmeadows,,6,,00364a,ffffff
-21,GOW,21,Karori - Wellington - Vogeltown (Loop Service),,3,,00364a,ffffff
-611,GOW,611,"Karori Wrights Hill - St Mary's, Wellington Girls, Queen Margaret College",,6,,00364a,ffffff
-309,TZWA,309,Makoura & Chanel College - Carterton,,6,,00364a,ffffff
-852,VLYF,852,Maungaraki - Hutt Schools,,6,,00364a,ffffff
-640,GOW,640,"Johnsonville, Ngaio & Wilton - Otari and Wadestown Schools",,6,,00364a,ffffff
-661,GOW,661,"Evans Bay Intermediate, Holy Cross and Miramar North Schools - Miramar & Maupuia",,6,,00364a,ffffff
-14,GOW,14,Rongotai - Wellington - Wilton,,3,,00364a,ffffff
-WRL,RAIL,WRL,Wairarapa Line (Masterton - Wellington),,2,,00364a,ffffff
-650,GOW,650,Seatoun and St Anthony's Schools - Strathmore,,6,,00364a,ffffff
-784,GOW,784,Wellington Station & Queens Wharf - Scots College via Hataitai Bus Tunnel,,6,,00364a,ffffff
-689,GOW,689,Onslow College and Ngaio School - Wilton & Karori,,6,,00364a,ffffff
-466,MANA,466,Basin Reserve - Wellington Station - Churton Park,,6,,8f8f8c,ffffff
-18,GOW,18,Campus Connection (Miramar - Karori),,3,,00364a,ffffff
-860,VLYF,860,Hutt Valley High & Sacred Heart College - Wainuiomata North,,6,,00364a,ffffff
-633,NLDS,633,Newlands College/Intermediate - Churton Park North via Paparangi,,6,,00364a,ffffff
-612,GOW,612,"Karori - St Mary's, Wellington Girls, Queen Margaret College",,6,,00364a,ffffff
-441,MANA,441,Whitby - Aotea College,,6,,00364a,ffffff
-718,GOW,718,Wellington High School - Kilbirnie & Seatoun,,6,,00364a,ffffff
-N6,MANA,N6,After Midnight (Tawa - Porirua - Whitby),,3,,00364a,ffffff
-729,GOW,729,Wellington High School - Island Bay & Owhiro Bay,,6,,00364a,ffffff
-465,MANA,465,Whitby - Paremata & St Theresa's Schools,,6,,00364a,ffffff
-110,VLYF,110,Emerald Hill - Upper Hutt - Petone,,3,,00364a,ffffff
-N2,GOW,N2,After Midnight (Wellington - Hataitai - Miramar - Strathmore - Seatoun),,3,,00364a,ffffff
-723,GOW,723,Wgtn East Girls - Miramar North,,6,,00364a,ffffff
-44,GOW,44,Strathmore Park - Wellington - Khandallah (Loop Service),,3,,00364a,ffffff
-874,CLSC,874,Wainuiomata Intermediate/High - Glendale & Arakura,,6,,00364a,ffffff
-770,GOW,770,"Kowhai Park - Basin, St Patrick's & Rongotai College",,6,,00364a,ffffff
-971,RUNC,971,"Porirua, Papakowhai & Whitby - St Patricks Silverstream & HIBS",,6,,8f8f8c,ffffff
-759,GOW,759,Evans Bay Intermediate - Seatoun,,6,,00364a,ffffff
-843,VLYF,843,Sts Peter & Paul School - Kelson,,6,,00364a,ffffff
-111,VLYF,111,Totara Park - Upper Hutt,,3,,00364a,ffffff
-851,VLYF,851,Hutt Intermediate - Petone Station,,6,,00364a,ffffff
-790,GOW,790,Karori Wrights Hill - Scots College,,6,,00364a,ffffff
-444,MANA,444,Plimmerton & Camborne - Aotea College,,6,,00364a,ffffff
-678,GOW,678,"Moa Point & Seatoun - St Mary's, Wgtn Girls, Queen Margaret and Marsden Schools",,6,,00364a,ffffff
-734,GOW,734,"Brooklyn, Kingston & Vogeltown - Basin & Wgtn East Girls",,6,,00364a,ffffff
-N5,NLDS,N5,After Midnight (Newlands - Churton Park - Johnsonvillle),,3,,00364a,ffffff
-672,GOW,672,"Marsden School - Wilton, Wadestown & Courtenay Place",,6,,00364a,ffffff
-671,GOW,671,Marsden School - Wellington Station,,6,,00364a,ffffff
-728,GOW,728,"Wgtn College - Newtown, Berhampore, Island Bay & Happy Valley",,6,,00364a,ffffff
-24,GOW,24,Miramar Heights - Wellington,,3,,00364a,ffffff
-426,MANA,426,Porirua Station - Aotea College,,6,,00364a,ffffff
-631,NLDS,631,Newlands College/Intermediate - Johnsonville via Grenada Village,,6,,00364a,ffffff
-876,CLSC,876,Wainuiomata South - Wainuiomata Intermediate/High Schools,,6,,00364a,ffffff
-202,TZWA,202,Masterton South,,3,,00364a,ffffff
-115,VLYF,115,Upper Hutt - Pinehaven - Upper Hutt,,3,,00364a,ffffff
-055,NLDS,055,Grenada Village - Johnsonville - Wellington,,3,,00364a,ffffff
-43,GOW,43,Strathmore Park - Wellington - Khandallah (Loop Service ),,3,,00364a,ffffff
-707,GOW,707,Wellington Station (Vic Law School) - Wellington East Girls,,6,,00364a,ffffff
-646,NLDS,646,"St Brigid's, West Park, Onslow College and Johnsonville Schools - Churton Park",,6,,00364a,ffffff
-30,GOW,30,Seatoun Express (Breaker Bay/Scorching Bay - Wellington),,3,,00364a,ffffff
-058,NLDS,058,Newlands - Wellington,,3,,00364a,ffffff
-840,VLYF,840,Kelson - Naenae College/Intermediate,,6,,00364a,ffffff
-758,GOW,758,Evans Bay Intermediate - Miramar,,6,,00364a,ffffff
-160,VLYF,160,Wainuiomata North - Lower Hutt,,3,,00364a,ffffff
-781,GOW,781,Kahurangi School - Strathmore Park,,6,,00364a,ffffff
-720,GOW,720,"Wgtn East Girls - Hataitai, Miramar & Seatoun",,6,,00364a,ffffff
-866,VLYF,866,"Wainuiomata South - Hutt Valley High, Sacred Heart & St Bernard's",,6,,00364a,ffffff
-713,GOW,713,"Miramar, Kilbirnie & Newtown - Basin Reserve & Wgtn East Girls",,6,,00364a,ffffff
-442,MANA,442,Aotea College - Whitby (The Crows Nest),,6,,00364a,ffffff
-730,GOW,730,Wellington East Girls College - Island Bay,,6,,00364a,ffffff
-673,GOW,673,"Churton Park, Broadmeadows & Ngaio - Cardinal McKeefry, Marsden & St. Teresa's",,6,,00364a,ffffff
-28,GOW,28,Beacon Hill Shuttle (Beacon Hill - Strathmore),,3,,00364a,ffffff
-289,KCTL,289,Kapiti Commuter (Waikanae - Wellington),,3,,8f8f8c,ffffff
-121,VLYF,121,Valley Heights (Gracefield - Stokes Valley - Gracefield),,3,,00364a,ffffff
-313,TZWA,313,"Wairarapa College - Carterton, Greytown & Featherston",,6,,00364a,ffffff
-4,GOW,4,Happy Valley - Wellington,,3,,00364a,ffffff
-500,MANA,500,"Waikanae, Kapanui & St Patrick's Schools - Waikanae",,6,,00364a,ffffff
-741,GOW,741,Karori & Kelburn - Wellington College,,6,,00364a,ffffff
-204,TZWA,204,Greytown - Woodside Station,,3,,00364a,ffffff
-052,NLDS,052,Johnsonville - Newlands - Wellington,,3,,00364a,ffffff
-740,GOW,740,Wellington College - Kelburn & Karori,,6,,00364a,ffffff
-914,RUNC,914,Pinehaven - Maidstone Intermediate & St Brendans School,,6,,00364a,ffffff
-1,GOW,1,Island Bay - Wellington,,3,,00364a,ffffff
-970,RUNC,970,Papakowhai & Whitby - St Orans & Chilton St James,,6,,8f8f8c,ffffff
-905,RUNC,905,Gillespies Road - Maidstone Intermediate,,6,,00364a,ffffff
-93,RUNC,93,Upper Hutt Commuter (Timberlea - Wellington),,3,,8f8f8c,ffffff
-205,TZWA,205,Featherston - Martinborough,,3,,00364a,ffffff
-455,MANA,455,Paremata School - Whitby & Pauatahanui,,6,,00364a,ffffff
-685,VLYF,685,Karori & Wilton - Cardinal McKeefry & Onslow College,,6,,00364a,ffffff
-507,MANA,507,Paraparaumu College - Waikanae,,6,,00364a,ffffff
-867,VLYF,867,"Wainuiomata North - Hutt Valley High, Sacred Heart & St Bernard's",,6,,00364a,ffffff
-887,VLYF,887,Eastbourne - Hutt Valley High School,,6,,00364a,ffffff
-682,NLDS,682,Raroa Intermediate - Churton Park,,6,,00364a,ffffff
-690,GOW,690,Onslow College - Wilton & Karori,,6,,00364a,ffffff
-3,GOW,3,Karori - Wellington - Lyall Bay,,3,,00364a,ffffff
-670,GOW,670,"Kilbirnie,  Roseneath & Wilton - Marsden School",,6,,00364a,ffffff
-888,CLSC,888,Eastbourne - Hutt Central Schools,,6,,00364a,ffffff
-853,VLYF,853,Maungaraki & Normandale - Hutt Central Schools,,6,,00364a,ffffff
-N4,GOW,N4,After Midnight (Wellington - Wadestown - Khandallah),,3,,00364a,ffffff
-641,GOW,641,"Cardinal McKeefry and Otari Schools - Ngaio, Khandallah & Johnsonville",,6,,00364a,ffffff
-251,PTXL,251,"Paekakariki & Raumati South Shopper (To Coastlands on Tuesday, Thursday & Friday)",,3,,00364a,ffffff
-114,VLYF,114,Trentham - Upper Hutt,,3,,00364a,ffffff
-CCL,WCCL,CCL,Cable Car (Kelburn - Wellington),,5,,db2032,ffffff
-726,GOW,726,Island Bay & Owhiro Bay - Wellington High School,,6,,00364a,ffffff
-462,MANA,462,Plimmerton School - Papakowhai,,6,,00364a,ffffff
-405,MANA,405,Tawa College/Intermediate - Titahi Bay (Gloaming Hill),,6,,00364a,ffffff
-400,MANA,400,Whitby (Crows Nest) - Porirua Station,,6,,8f8f8c,ffffff
-5,GOW,5,Wellington - Hataitai (Loop Service),,3,,00364a,ffffff
-828,VLYF,828,Stokes Valley East - Taita College,,6,,00364a,ffffff
-JVL,RAIL,JVL,Johnsonville Line (Johnsonville - Wellington),,2,,00364a,ffffff
-711,GOW,711,"Moa Point, Seatoun, Kilbirnie & Hataitai - Wgtn East Girls and St Mark's School",,6,,00364a,ffffff
-676,GOW,676,"Marsden School - Wilton, Ngaio & Khandallah",,6,,00364a,ffffff
-619,GOW,619,"St. Mary's, Wgtn Girls & Queen Margaret - Wilton & Northland",,6,,00364a,ffffff
-WHF,EBYW,WHF,Wellington Harbour Ferry (Days Bay - Queens Wharf),,4,,00364a,ffffff
-767,GOW,767,St. Patrick's College - Hataitai & Karori,,6,,00364a,ffffff
-776,GOW,776,"Rongotai College - Berhampore, Island Bay",,6,,00364a,ffffff
-769,GOW,769,St. Patrick's & Wellington College - Wilton via Northland,,6,,00364a,ffffff
-684,GOW,684,Kelburn & Northland - Onslow College,,6,,00364a,ffffff
-714,GOW,714,"Strathmore Park - Rongotai, St Pat's, Evans Bay & Wgtn East Girls",,6,,00364a,ffffff
-792,GOW,792,Scots College - Kelburn & Karori via Miramar,,6,,00364a,ffffff
 3W,GOW,3W,Karori West - Wellington,,3,,00364a,ffffff
-822,VLYF,822,Taita College - Queensgate,,6,,00364a,ffffff
 83,VLYF,83,Eastbourne - Lower Hutt - Petone - Wellington,,3,,00364a,ffffff
+250,MANA,250,Paraparaumu - Raumati South - Paraparaumu,,3,,00364a,ffffff
 261,MANA,261,Paraparaumu Beach - Paraparaumu via Guildford Dr,,3,,00364a,ffffff
 20,GOW,20,Highbury - Wellington - Mt Victoria,,3,,00364a,ffffff
-772,GOW,772,Island Bay & Owhiro Bay - St Patrick's & St Catherine's College,,6,,00364a,ffffff
-911,RUNC,911,Upper Hutt - St. Oran's College,,6,,00364a,ffffff
-953,RUNC,953,Stokes Valley - St Patrick's Silverstream & Fergusson Intermediate,,6,,00364a,ffffff
-929,RUNC,929,"Te Marua, Birchville & Brown Owl - Fraser Crescent School & Maidstone Intermediate",,6,,00364a,ffffff
+220,MANA,220,Titahi Bay - Ascot Park - Titahi Bay,,3,,00364a,ffffff
+263,PTXL,263,Otaihanga Shopper (To Coastlands & Paraparaumu on Tuesday & Thursday),,3,,00364a,ffffff
 9,GOW,9,Aro Street - Wellington,,3,,00364a,ffffff
+80,VLYF,80,Wainuiomata Commuter (Wainuiomata - Wellington),,3,,8f8f8c,ffffff
 112,VLYF,112,Te Marua - Upper Hutt,,3,,00364a,ffffff
-760,GOW,760,Evans Bay Intermediate - Strathmore Park,,6,,00364a,ffffff
-512,MANA,512,Waikanae Beach - Kapiti College,,6,,00364a,ffffff
-421,MANA,421,Viard College - Ascot Park,,6,,00364a,ffffff
-786,GOW,786,Scots College - Wellington Station (non-stop),,6,,00364a,ffffff
-615,GOW,615,Wellington Girls College - Karori,,6,,00364a,ffffff
-745,GOW,745,Wellington College - Wadestown & Wilton,,6,,00364a,ffffff
-827,VLYF,827,Stokes Valley West - Taita College,,6,,00364a,ffffff
-501,MANA,501,"Waikanae South - Kapanui, Waikanae & St Patrick's Schools",,6,,00364a,ffffff
+130,VLYF,130,Naenae - Petone,,3,,00364a,ffffff
+45,GOW,45,Ngaio - Wellington,,3,,00364a,ffffff
+81,VLYF,81,Eastbourne - Petone - Wellington,,3,,00364a,ffffff
+236,MANA,236,Whitby (Navigation Drive) - Paremata - Porirua,,3,,00364a,ffffff
+23,GOW,23,Houghton Bay - Wellington - Mairangi,,3,,00364a,ffffff
 29,GOW,29,Southern Shopper (Island Bay - Brooklyn - Newtown),,3,,00364a,ffffff
-765,GOW,765,Karori & Kelburn - St Patrick's & Rongotai College,,6,,00364a,ffffff
-704,GOW,704,Wellington College - Wellington Station,,6,,00364a,ffffff
-677,GOW,677,"Island Bay, Kingston & Kelburn - Marsden School",,6,,00364a,ffffff
 054,NLDS,054,Churton Park - Wellington,,3,,00364a,ffffff
-722,GOW,722,Wgtn East Girls - Hataitai & Strathmore,,6,,00364a,ffffff
-654,GOW,654,St Mark's and South Wellington Intermediate - Island Bay & Owhiro Bay,,6,,00364a,ffffff
+290,MADG,290,Waikanae - Otaki - Waikanae,,3,,00364a,ffffff
 2,GOW,2,Miramar - Wellington,,3,,00364a,ffffff
-683,GOW,683,Karori & Wilton - Onslow College,,6,,00364a,ffffff
 KPL,RAIL,KPL,Kapiti Line (Waikanae - Wellington),,2,,00364a,ffffff
-616,GOW,616,Wellington Girls & St Mary's College - Karori,,6,,00364a,ffffff
-746,GOW,746,"Khandallah - Wellington College, St Mark's School and St. Patrick's College",,6,,00364a,ffffff
-791,GOW,791,Karori & Scots College - Scots College,,6,,00364a,ffffff
 203,TZWA,203,Masterton - Lansdowne,,3,,00364a,ffffff
-955,RUNC,955,Stokes Valley - Upper Hutt College,,6,,00364a,ffffff
-764,GOW,764,Karori - Basin Reserve,,6,,00364a,ffffff
-N66,VLYF,N66,After Midnight (Wellington - Wainuiomata),,3,,00364a,ffffff
 210,MANA,210,Titahi Bay - Tawa - Johnsonville,,3,,00364a,ffffff
-HVL,RAIL,HVL,Hutt Valley Line (Upper Hutt - Wellington),,2,,00364a,ffffff
+N66,VLYF,N66,After Midnight (Wellington - Wainuiomata),,3,,00364a,ffffff
 050,NLDS,050,Broadmeadows Shopper,,3,,00364a,ffffff
-429,MANA,429,Aotea College - Ascot Park,,6,,00364a,ffffff
-926,RUNC,926,Totara Park - Heretaunga & Upper Hutt College,,6,,00364a,ffffff
-954,RUNC,954,Stokes Valley - Heretaunga College & Maidstone Intermediate,,6,,8f8f8c,ffffff
-823,VLYF,823,Hutt Intermediate - Stokes Valley,,6,,00364a,ffffff
-906,RUNC,906,Birchville - Plateau School,,6,,00364a,ffffff
-642,GOW,642,Otari and Cardinal McKeefry Schools - Karori,,6,,00364a,ffffff
-460,MANA,460,Mana via Camborne - Plimmerton School,,6,,00364a,ffffff
+HVL,RAIL,HVL,Hutt Valley Line (Upper Hutt - Wellington),,2,,00364a,ffffff
+N22,VLYF,N22,After Midnight (Wellington - Naenae - Stokes Valley - Upper Hutt),,3,,00364a,ffffff
+280,MANA,280,Waikanae - Waikanae Beach - Waikanae,,3,,00364a,ffffff
 262,MANA,262,Paraparaumu Beach - Paraparaumu via Mazengarb Rd,,3,,00364a,ffffff
 MEL,RAIL,MEL,Melling Line (Melling - Wellington),,2,,00364a,ffffff
-675,GOW,675,"St Teresa's and Marsden Schools - Ngaio, Broadmeadows & Churton Park",,6,,00364a,ffffff
 8,GOW,8,Kowhai Park - Wellington,,3,,00364a,ffffff
-768,GOW,768,"Mairangi - Wellington, St. Patrick's & Rongotai Colleges",,6,,00364a,ffffff
-731,GOW,731,Wgtn East Girls - Island Bay & Owhiro Bay,,6,,00364a,ffffff
 47,GOW,47,Johnsonville - Newtown,,3,,00364a,ffffff
-230,MANA,230,Whitby (The Crowsnest) - Porirua,,3,,00364a,ffffff
-787,GOW,787,Scots College - Wellington Station via Hataitai Bus Tunnel,,6,,00364a,ffffff
 057,NLDS,057,Woodridge - Wellington,,3,,00364a,ffffff
-467,MANA,467,St Patricks College - Porirua,,6,,00364a,ffffff
+25,GOW,25,Strathmore - Wellington,,3,,00364a,ffffff
+230,MANA,230,Whitby (The Crowsnest) - Porirua,,3,,00364a,ffffff
+21,GOW,21,Karori - Wellington - Vogeltown (Loop Service),,3,,00364a,ffffff
 053,NLDS,053,Johnsonville West (McLintock St - Johnsonville),,3,,00364a,ffffff
 91,VLYF,91,Airport Flyer (Queensgate - City - Airport),,3,,f77f00,ffffff
-623,GOW,623,"St Marys, Wellington Girls, Queen Margaret - Roseneath, Seatoun & Moa Point",,6,,00364a,ffffff
-632,NLDS,632,Newlands College/Intermediate - Churton Park via Paparangi,,6,,00364a,ffffff
-440,MANA,440,Cannons Creek - Aotea College,,6,,00364a,ffffff
+14,GOW,14,Rongotai - Wellington - Wilton,,3,,00364a,ffffff
+WRL,RAIL,WRL,Wairarapa Line (Masterton - Wellington),,2,,00364a,ffffff
 201,TZWA,201,Masterton West,,3,,00364a,ffffff
-630,NLDS,630,Newlands College/Intermediate - Courtenay Place via Johnsonville,,6,,00364a,ffffff
-915,RUNC,915,Pinehaven & Heretaunga - Fergusson Intermediate,,6,,00364a,ffffff
+18,GOW,18,Campus Connection (Miramar - Karori),,3,,00364a,ffffff
 150,VLYF,150,Western Hills (Kelson - Lower Hutt - Maungaraki),,3,,00364a,ffffff
-681,NLDS,681,Churton Park - Onslow College and Raroa Intermediate Schools,,6,,00364a,ffffff
-315,TZWA,315,Masterton Intermediate - Carterton & Greytown,,6,,00364a,ffffff
-919,RUNC,919,Silverstream - St Oran's & Sacred Heart Colleges,,6,,00364a,ffffff
-973,RUNC,973,Paremata & Plimmerton - St Patricks Silverstream & HIBS,,6,,8f8f8c,ffffff
+N6,MANA,N6,After Midnight (Tawa - Porirua - Whitby),,3,,00364a,ffffff
+110,VLYF,110,Emerald Hill - Upper Hutt - Petone,,3,,00364a,ffffff
+44,GOW,44,Strathmore Park - Wellington - Khandallah (Loop Service),,3,,00364a,ffffff
+N2,GOW,N2,After Midnight (Wellington - Hataitai - Miramar - Strathmore - Seatoun),,3,,00364a,ffffff
+111,VLYF,111,Totara Park - Upper Hutt,,3,,00364a,ffffff
