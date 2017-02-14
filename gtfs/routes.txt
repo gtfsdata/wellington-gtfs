@@ -1,6 +1,6 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
 17,GOW,17,Victoria University - Wellington,,3,,00364a,ffffff
-N5,NLDS,N5,After Midnight (Newlands - Churton Park - Johnsonvillle),,3,,00364a,ffffff
+N5,NLDS,N5,After Midnight (Newlands - Churton Park - Johnsonville),,3,,00364a,ffffff
 120,VLYF,120,Stokes Valley - Lower Hutt,,3,,00364a,ffffff
 145,VLYF,145,Belmont - Lower Hutt,,3,,00364a,ffffff
 84,VLYF,84,Gracefield - Petone - Wellington,,3,,00364a,ffffff
@@ -10,15 +10,15 @@ N5,NLDS,N5,After Midnight (Newlands - Churton Park - Johnsonvillle),,3,,00364a,f
 202,TZWA,202,Masterton South,,3,,00364a,ffffff
 115,VLYF,115,Upper Hutt - Pinehaven - Upper Hutt,,3,,00364a,ffffff
 43,GOW,43,Strathmore Park - Wellington - Khandallah (Loop Service ),,3,,00364a,ffffff
-055,NLDS,055,Grenada Village - Johnsonville - Wellington,,3,,00364a,ffffff
+055,NLDS,55,Grenada Village - Johnsonville - Wellington,,3,,00364a,ffffff
 85,VLYF,85,Eastbourne Express (Eastbourne - Wellington),,3,,00364a,ffffff
 30,GOW,30,Seatoun Express (Breaker Bay/Scorching Bay - Wellington),,3,,00364a,ffffff
-058,NLDS,058,Newlands - Wellington,,3,,00364a,ffffff
+058,NLDS,58,Newlands - Wellington,,3,,00364a,ffffff
 N3,GOW,N3,After Midnight (Wellington - Karori - Northland),,3,,00364a,ffffff
 13,GOW,13,Wellington - Mairangi,,3,,00364a,ffffff
 3S,GOW,3S,Karori South - Wellington,,3,,00364a,ffffff
 160,VLYF,160,Wainuiomata North - Lower Hutt,,3,,00364a,ffffff
-056,NLDS,056,Paparangi - Wellington,,3,,00364a,ffffff
+056,NLDS,56,Paparangi - Wellington,,3,,00364a,ffffff
 211,MANA,211,Porirua - Johnsonville - Wellington,,3,,8f8f8c,ffffff
 N88,VLYF,N88,After Midnight (Wellington - Eastbourne),,3,,00364a,ffffff
 31,GOW,31,Miramar North Express (Miramar - Wellington),,3,,00364a,ffffff
@@ -29,7 +29,7 @@ N88,VLYF,N88,After Midnight (Wellington - Eastbourne),,3,,00364a,ffffff
 4,GOW,4,Happy Valley - Wellington,,3,,00364a,ffffff
 204,TZWA,204,Greytown - Woodside Station,,3,,00364a,ffffff
 N1,GOW,N1,After Midnight (Wellington - Island Bay - Lyall Bay),,3,,00364a,ffffff
-052,NLDS,052,Johnsonville - Newlands - Wellington,,3,,00364a,ffffff
+052,NLDS,52,Johnsonville - Newlands - Wellington,,3,,00364a,ffffff
 206,TZWA,206,Masterton East,,3,,00364a,ffffff
 6,GOW,6,Lyall Bay - Wellington,,3,,00364a,ffffff
 1,GOW,1,Island Bay - Wellington,,3,,00364a,ffffff
@@ -74,14 +74,14 @@ WHF,EBYW,WHF,Wellington Harbour Ferry (Days Bay - Queens Wharf),,4,,00364a,fffff
 236,MANA,236,Whitby (Navigation Drive) - Paremata - Porirua,,3,,00364a,ffffff
 23,GOW,23,Houghton Bay - Wellington - Mairangi,,3,,00364a,ffffff
 29,GOW,29,Southern Shopper (Island Bay - Brooklyn - Newtown),,3,,00364a,ffffff
-054,NLDS,054,Churton Park - Wellington,,3,,00364a,ffffff
+054,NLDS,54,Churton Park - Wellington,,3,,00364a,ffffff
 290,MADG,290,Waikanae - Otaki - Waikanae,,3,,00364a,ffffff
 2,GOW,2,Miramar - Wellington,,3,,00364a,ffffff
 KPL,RAIL,KPL,Kapiti Line (Waikanae - Wellington),,2,,00364a,ffffff
 203,TZWA,203,Masterton - Lansdowne,,3,,00364a,ffffff
 210,MANA,210,Titahi Bay - Tawa - Johnsonville,,3,,00364a,ffffff
 N66,VLYF,N66,After Midnight (Wellington - Wainuiomata),,3,,00364a,ffffff
-050,NLDS,050,Broadmeadows Shopper,,3,,00364a,ffffff
+050,NLDS,50,Broadmeadows Shopper,,3,,00364a,ffffff
 HVL,RAIL,HVL,Hutt Valley Line (Upper Hutt - Wellington),,2,,00364a,ffffff
 N22,VLYF,N22,After Midnight (Wellington - Naenae - Stokes Valley - Upper Hutt),,3,,00364a,ffffff
 280,MANA,280,Waikanae - Waikanae Beach - Waikanae,,3,,00364a,ffffff
@@ -89,11 +89,11 @@ N22,VLYF,N22,After Midnight (Wellington - Naenae - Stokes Valley - Upper Hutt),,
 MEL,RAIL,MEL,Melling Line (Melling - Wellington),,2,,00364a,ffffff
 8,GOW,8,Kowhai Park - Wellington,,3,,00364a,ffffff
 47,GOW,47,Johnsonville - Newtown,,3,,00364a,ffffff
-057,NLDS,057,Woodridge - Wellington,,3,,00364a,ffffff
+057,NLDS,57,Woodridge - Wellington,,3,,00364a,ffffff
 25,GOW,25,Strathmore - Wellington,,3,,00364a,ffffff
 230,MANA,230,Whitby (The Crowsnest) - Porirua,,3,,00364a,ffffff
 21,GOW,21,Karori - Wellington - Vogeltown (Loop Service),,3,,00364a,ffffff
-053,NLDS,053,Johnsonville West (McLintock St - Johnsonville),,3,,00364a,ffffff
+053,NLDS,53,Johnsonville West (McLintock St - Johnsonville),,3,,00364a,ffffff
 91,VLYF,91,Airport Flyer (Queensgate - City - Airport),,3,,f77f00,ffffff
 14,GOW,14,Rongotai - Wellington - Wilton,,3,,00364a,ffffff
 WRL,RAIL,WRL,Wairarapa Line (Masterton - Wellington),,2,,00364a,ffffff
