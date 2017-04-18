@@ -6,6 +6,7 @@ KCTL,"Kapiti Coach Tours Limited",http://www.metlink.org.nz,Pacific/Auckland,en,
 RUNC,"Runcimans Motors Ltd",http://www.metlink.org.nz,Pacific/Auckland,en,,http://www.metlink.org.nz/tickets-and-fares/
 RAIL,"Metlink Rail",http://www.metlink.org.nz,Pacific/Auckland,en,,http://www.metlink.org.nz/tickets-and-fares/
 AIRF,"Airport Flyer",https://www.metlink.org.nz/tickets-and-fares/airport/,Pacific/Auckland,en,,http://www.metlink.org.nz/tickets-and-fares/
+HRC,"Horizons Regional Council",http://www.metlink.org.nz,Pacific/Auckland,en,,http://www.metlink.org.nz/tickets-and-fares/
 EBYW,"East By West Ferry",http://www.metlink.org.nz,Pacific/Auckland,en,,http://www.metlink.org.nz/tickets-and-fares/ferry/
 TRAN,"KiwiRail Scenic",http://www.kiwirailscenic.co.nz/,Pacific/Auckland,en,,
 MADG,"Madge Coachlines Limited",http://www.metlink.org.nz,Pacific/Auckland,en,,http://www.metlink.org.nz/tickets-and-fares/
