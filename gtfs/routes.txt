@@ -8,7 +8,6 @@ MEL,RAIL,MEL,Melling Line (Melling - Wellington),,2,,00364a,ffffff
 11,GOW,11,Seatoun - Wellington,,3,,00364a,ffffff
 14,GOW,14,Rongotai - Wellington - Wilton,,3,,00364a,ffffff
 47,GOW,47,Johnsonville - Newtown,,3,,00364a,ffffff
-93,RUNC,93,Upper Hutt Commuter (Timberlea - Wellington),,3,,8f8f8c,000000
 1,GOW,1,Island Bay - Wellington,,3,,00364a,ffffff
 84,VLYF,84,Gracefield - Petone - Wellington,,3,,00364a,ffffff
 114,VLYF,114,Trentham - Upper Hutt,,3,,00364a,ffffff
@@ -24,7 +23,6 @@ WRL,RAIL,WRL,Wairarapa Line (Masterton - Wellington),,2,,00364a,ffffff
 262,MANA,262,Paraparaumu Beach - Paraparaumu via Mazengarb Rd,,3,,00364a,ffffff
 3W,GOW,3W,Karori West - Wellington,,3,,00364a,ffffff
 154,VLYF,154,Petone - Korokoro - Petone,,3,,00364a,ffffff
-80,VLYF,80,Wainuiomata Commuter (Wainuiomata - Wellington),,3,,8f8f8c,000000
 170,VLYF,170,Lower Hutt - Wainuiomata South - Lower Hutt,,3,,00364a,ffffff
 160,VLYF,160,Wainuiomata North - Lower Hutt,,3,,00364a,ffffff
 HVL,RAIL,HVL,Hutt Valley Line (Upper Hutt - Wellington),,2,,00364a,ffffff
@@ -36,14 +34,11 @@ HVL,RAIL,HVL,Hutt Valley Line (Upper Hutt - Wellington),,2,,00364a,ffffff
 32,GOW,32,Island Bay Express (Island Bay - Wellington),,3,,00364a,ffffff
 2,GOW,2,Miramar - Wellington,,3,,00364a,ffffff
 145,VLYF,145,Belmont - Lower Hutt,,3,,00364a,ffffff
-211,MANA,211,Porirua - Johnsonville - Wellington,,3,,8f8f8c,000000
-97N,MANA,97N,Polytech Link (Porirua Station - Ngauranga - Weltec Petone),,3,,8f8f8c,000000
 29,GOW,29,Southern Shopper (Island Bay - Brooklyn - Newtown),,3,,00364a,ffffff
 052,NLDS,52,Johnsonville - Newlands - Wellington,,3,,00364a,ffffff
 150,VLYF,150,Western Hills (Kelson - Lower Hutt - Maungaraki),,3,,00364a,ffffff
 N8,VLYF,N8,After Midnight (Lower Hutt - Wellington),,3,,00364a,ffffff
 N3,GOW,N3,After Midnight (Wellington - Karori - Northland),,3,,00364a,ffffff
-90,VLYF,90,Stokes Valley Commuter (Stokes Valley - Wellington),,3,,8f8f8c,000000
 230,MANA,230,Whitby (The Crowsnest) - Porirua,,3,,00364a,ffffff
 112,VLYF,112,Te Marua - Upper Hutt,,3,,00364a,ffffff
 N66,VLYF,N66,After Midnight (Wellington - Wainuiomata),,3,,00364a,ffffff
@@ -58,7 +53,6 @@ N2,GOW,N2,After Midnight (Wellington - Hataitai - Miramar - Strathmore - Seatoun
 4,GOW,4,Happy Valley - Wellington,,3,,00364a,ffffff
 110,VLYF,110,Emerald Hill - Upper Hutt - Petone,,3,,00364a,ffffff
 056,NLDS,56,Paparangi - Wellington,,3,,00364a,ffffff
-291,UBU,291,Waikanae - Levin trial bus service,,3,,000000,ffffff
 N22,VLYF,N22,After Midnight (Wellington - Naenae - Stokes Valley - Upper Hutt),,3,,00364a,ffffff
 WHF,EBYW,WHF,Wellington Harbour Ferry (Days Bay - Queens Wharf),,4,,00364a,ffffff
 204,TZWA,204,Greytown - Woodside Station,,3,,00364a,ffffff
@@ -75,10 +69,7 @@ WHF,EBYW,WHF,Wellington Harbour Ferry (Days Bay - Queens Wharf),,4,,00364a,fffff
 23,GOW,23,Houghton Bay - Wellington - Mairangi,,3,,00364a,ffffff
 N4,GOW,N4,After Midnight (Wellington - Wadestown - Khandallah),,3,,00364a,ffffff
 210,MANA,210,Titahi Bay - Tawa - Johnsonville,,3,,00364a,ffffff
-CCL,WCCL,CCL,Cable Car (Kelburn - Wellington),,5,,db2032,ffffff
 N6,MANA,N6,After Midnight (Tawa - Porirua - Whitby),,3,,00364a,ffffff
-91,VLYF,91,Airport Flyer (Queensgate - City - Airport),,3,,f77f00,000000
-289,KCTL,289,Kapiti Commuter (Waikanae - Wellington),,3,,8f8f8c,000000
 290,MADG,290,Waikanae - Otaki - Waikanae,,3,,00364a,ffffff
 300,MANA,300,From Whenua Tapu Cemetery (runs last Sunday of each month),,3,,00364a,ffffff
 050,NLDS,50,Broadmeadows Shopper,,3,,00364a,ffffff
@@ -97,12 +88,20 @@ N5,NLDS,N5,After Midnight (Newlands - Churton Park - Johnsonvillle),,3,,00364a,f
 130,VLYF,130,Naenae - Petone,,3,,00364a,ffffff
 280,MANA,280,Waikanae - Waikanae Beach - Waikanae,,3,,00364a,ffffff
 200,TZWA,200,Masterton - Featherston,,3,,00364a,ffffff
-92,RUNC,92,Upper Hutt Commuter (Te Marua - Wellington),,3,,8f8f8c,000000
 9,GOW,9,Aro Street - Wellington,,3,,00364a,ffffff
 202,TZWA,202,Masterton South,,3,,00364a,ffffff
 13,GOW,13,Wellington - Mairangi,,3,,00364a,ffffff
 053,NLDS,53,Johnsonville West (McLintock St - Johnsonville),,3,,00364a,ffffff
-97H,MANA,97H,Polytech Link (Weltec Petone - Haywards - Whitireia Porirua),,3,,8f8f8c,000000
 5,GOW,5,Wellington - Hataitai (Loop Service),,3,,00364a,ffffff
 8,GOW,8,Kowhai Park - Wellington,,3,,00364a,ffffff
 120,VLYF,120,Stokes Valley - Lower Hutt,,3,,00364a,ffffff
+93,RUNC,93,Upper Hutt Commuter (Timberlea - Wellington),,3,,8f8f8c,ffffff
+80,VLYF,80,Wainuiomata Commuter (Wainuiomata - Wellington),,3,,8f8f8c,ffffff
+211,MANA,211,Porirua - Johnsonville - Wellington,,3,,8f8f8c,ffffff
+97N,MANA,97N,Polytech Link (Porirua Station - Ngauranga - Weltec Petone),,3,,8f8f8c,ffffff
+90,VLYF,90,Stokes Valley Commuter (Stokes Valley - Wellington),,3,,8f8f8c,ffffff
+289,KCTL,289,Kapiti Commuter (Waikanae - Wellington),,3,,8f8f8c,ffffff
+92,RUNC,92,Upper Hutt Commuter (Te Marua - Wellington),,3,,8f8f8c,ffffff
+97H,MANA,97H,Polytech Link (Weltec Petone - Haywards - Whitireia Porirua),,3,,8f8f8c,ffffff
+CCL,WCCL,CCL,Cable Car (Kelburn - Wellington),,5,,db2032,ffffff
+91,VLYF,91,Airport Flyer (Queensgate - City - Airport),,3,,f77f00,ffffff
