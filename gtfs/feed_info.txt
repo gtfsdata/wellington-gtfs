@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Greater Wellington Regional Council,http://www.metlink.org.nz,en,20180108,20180616,20180429_20180405-155938
+Greater Wellington Regional Council,http://www.metlink.org.nz,en,20180429,20180714,20180429_20180419-081030
