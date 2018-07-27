@@ -9,7 +9,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1637,1637,Te Moana Road (near 460),,-40.87961099999999,175.059437,10,,0,,Pacific/Auckland
 3474,3474,Stewart Drive at Pritchard Street,,-41.2223829,174.8193726,3,,0,,Pacific/Auckland
 8292,8292,Naenae Road at Kowhai Street (near 294),,-41.19510652999999,174.956474,5,,0,,Pacific/Auckland
-3968,3968,Middleton Road (opposite 395),,-41.19636483,174.8233249,4,,0,,Pacific/Auckland
+3968,3968,Middleton Road (opposite 395),,-41.19636483,174.8233249,3,,0,,Pacific/Auckland
 2880,2880,Prosser Street (near 22),,-41.13334879,174.8333505,5,,0,,Pacific/Auckland
 4913,4913,The Terrace at Dalmuir Lane (near 130),,-41.28351574,174.7744747,1,,0,,Pacific/Auckland
 4120,4120,Lennel Road at Sefton Street,,-41.26409097,174.7787493,2,,0,,Pacific/Auckland
@@ -616,7 +616,7 @@ WOOD,WOOD,Woodside Station,,-41.06736154,175.40189781,12,,0,,Pacific/Auckland
 8963,8963,Wellington Road at Dover Road,,-41.24950668999999,174.9453197,5,,0,,Pacific/Auckland
 2100,2100,Mungavin Park - Mungavin Avenue,,-41.13928107,174.8510303,5,,0,,Pacific/Auckland
 7048,7048,Breaker Bay Road at Flax Bay (near 136),,-41.33552906,174.824072,3,,0,,Pacific/Auckland
-6553,6553,St Patrick's College - Evans Bay Parade,,-41.31370097,174.7955933,2,,0,,Pacific/Auckland
+6553,6553,St Patrick's College - Evans Bay Parade,,-41.31370097,174.7955933,2/3,,0,,Pacific/Auckland
 9361,9361,Stokes Valley Entrance - Stop A,,-41.16163365,174.9822581,6,,0,,Pacific/Auckland
 5326,5326,Karori Road (near 223),,-41.28415914,174.7395319,3,,0,,Pacific/Auckland
 4415,4415,Calcutta Street (near 39),,-41.25115445,174.788185,3,,0,,Pacific/Auckland
@@ -732,6 +732,7 @@ PLIM1,PLIM1,Plimmerton Station,,-41.08388941,174.86725873,6,,0,PLIM,
 8559,8559,Royal Street (near 21),,-41.12299676,175.0670065,7,,0,,Pacific/Auckland
 4381,4381,Birdwood Street at Braithwaite Street,,-41.28379968,174.7506154,3,,0,,Pacific/Auckland
 4431,4431,Homebush Road (near 1),,-41.25080374,174.8048844,3,,0,,Pacific/Auckland
+4310,4310,Whitmore Street (temporary stop),,-41.27973424259335,174.7772066934712,1,,0,,Pacific/Auckland
 3472,3472,Newlands Medical Centre - Stewart Drive,,-41.22233952,174.8221152,3,,0,,Pacific/Auckland
 9004,9004,Jackson Street at Sydney Street,,-41.22445062,174.8757401,4,,0,,Pacific/Auckland
 5008,5008,Willis Street at Grand Arcade,,-41.28674127,174.7760208,1,,0,,Pacific/Auckland
@@ -763,6 +764,7 @@ REDW2,REDW2,Redwood Station,,-41.17494090999999,174.82713836,4,,0,REDW,
 9237,9237,Reynolds Street at St Matthew's Church,,-41.17879353,174.956339,5,,0,,Pacific/Auckland
 6120,6120,Rintoul Street (near 63),,-41.31489985999999,174.7782188,2,,0,,Pacific/Auckland
 2720,2720,Discovery Drive at Whitby Village,,-41.11741296,174.8941278,6,,0,,Pacific/Auckland
+7331,7331,Onepu Road opposite Apu Crescent (temporary stop),,-41.3275527103142,174.79534469794476,3,,0,,Pacific/Auckland
 8005,8005,Jackson Street at Beach Street,,-41.22583014,174.88003733,4,,0,,Pacific/Auckland
 8280,8280,Wesleyhaven Hospital (Rata Street),,-41.20389594,174.968536,5,,0,,Pacific/Auckland
 6216,6216,Waitoa Road at Bus Tunnel,,-41.30220991,174.79209335,2,,0,,Pacific/Auckland
@@ -1078,7 +1080,7 @@ BOXH,BOXH,Box Hill Station,,-41.24601334,174.78875658,3,,0,,Pacific/Auckland
 1804,1804,SH53 at Te Maire Road (hail and ride),,-41.17390718,175.4002364,12,,0,,Pacific/Auckland
 1308,1308,Raumati Road at Kiwi Road,,-40.92031181,174.9861014,9,,0,,Pacific/Auckland
 3776,3776,Link Road (near 8),,-41.22640923,174.8267618,3,,0,,Pacific/Auckland
-3903,3903,Middleton Road (near 375),,-41.19867391999999,174.8206237,4,,0,,Pacific/Auckland
+3903,3903,Middleton Road (near 375),,-41.19867391999999,174.8206237,3,,0,,Pacific/Auckland
 6569,6569,Alexandra Road (near 7),,-41.29585,174.7984823,2,,0,,Pacific/Auckland
 2902,2902,Te Pene Avenue at Te Puke Street (near 86),,-41.11337724,174.8374395,5,,0,,Pacific/Auckland
 2012,2012,Norrie Street at Porirua Library,,-41.132164,174.839924,5,,0,,Pacific/Auckland
@@ -1154,6 +1156,7 @@ PAEK2,PAEK2,Paekakariki Station,,-40.98716849,174.95437663,8,,0,PAEK,
 4126,4126,Wilton Road at Blackbridge Road,,-41.2616407,174.76699969,2,,0,,Pacific/Auckland
 2904,2904,Titahi Bay School - Kura Street (opposite),,-41.11128935,174.8384531,5,,0,,Pacific/Auckland
 4469,4469,Burma Road at John Sims Drive,,-41.23622901,174.7980398,3,,0,,Pacific/Auckland
+6547,6547,Evans Bay Parade (near 331),,-41.304013,174.802988,2,,0,,Pacific/Auckland
 WATE2,WATE2,Waterloo Station,,-41.21389774,174.92109981,4,,0,WATE,
 3242,3242,Chorley Grove (near 5),,-41.21266887,174.807056,3,,0,,Pacific/Auckland
 8607,8607,Topaz Street (near 16),,-41.0962525,175.1112937,7,,0,,Pacific/Auckland
@@ -1169,6 +1172,7 @@ SIML,SIML,Simla Crescent Station,,-41.24679734,174.78433654,3,,0,,Pacific/Auckla
 7543,7543,Evans Bay Parade (near 98),,-41.29263347,174.8025738,2,,0,,Pacific/Auckland
 7787,7787,Raroa Road opposite Mt Pleasant Road,,-41.294012,174.758032,2,,0,,Pacific/Auckland
 8274,8274,Waddington Drive at Keys Street (near 98),,-41.20656927,174.9490562,5,,0,,Pacific/Auckland
+7335,7335,Lyall Parade at Onepu Road (temporary stop),,-41.32925169675196,174.79509788167553,3,,0,,Pacific/Auckland
 7256,7256,Kaikoura Street at Akaroa Drive (near 2),,-41.30725599,174.8177888,3,,0,,Pacific/Auckland
 2560,2560,Leeward Drive (near 53),,-41.10735803,174.883973,6,,0,,Pacific/Auckland
 7920,7920,Riddiford Street at Gordon Street,,-41.31536587,174.78029826,2,,0,,Pacific/Auckland
@@ -1249,7 +1253,6 @@ WALL,WALL,Wallaceville Station,,-41.13051788,175.05881511,7,,0,,Pacific/Auckland
 1714,1714,Te Manuao Road (near 24),,-40.75789844,175.1665289,13,,0,,Pacific/Auckland
 1368,1368,Ngaio Road at Matatua Road,,-40.91164839,174.981805,9,,0,,Pacific/Auckland
 1242,1242,Golf Road (near 58),,-40.8876945,174.9866684,9,,0,,Pacific/Auckland
-4310,4310,Whitmore Street,,-41.27974371,174.77725221,1,,0,,Pacific/Auckland
 8779,8779,Gracefield Road (near 101),,-41.23656885,174.9165371,4,,0,,Pacific/Auckland
 2588,2588,Eskdale Road at Forth Place (near 16),,-41.11049085,174.8657035,5,,0,,Pacific/Auckland
 9312,9312,Holborn Drive at Shaftsbury Grove,,-41.17139064,174.97418087,6,,0,,Pacific/Auckland
@@ -1263,7 +1266,7 @@ WALL,WALL,Wallaceville Station,,-41.13051788,175.05881511,7,,0,,Pacific/Auckland
 8176,8176,Bell Road at Waikare Avenue (near 131),,-41.22519673,174.9125065,4,,0,,Pacific/Auckland
 7145,7145,Murchison Street opposite Domanski Crescent,,-41.33544039,174.7603738,3,,0,,Pacific/Auckland
 8091,8091,London Road (near 30),,-41.21548056999999,174.8734559,4,,0,,Pacific/Auckland
-3906,3906,Middleton Road at Richmond Hill Road,,-41.19226393,174.8272429,4,,0,,Pacific/Auckland
+3906,3906,Middleton Road at Richmond Hill Road,,-41.19226393,174.8272429,4/3,,0,,Pacific/Auckland
 3468,3468,Bracken Road (near 30),,-41.22151223,174.8231659,3,,0,,Pacific/Auckland
 9358,9358,Hill Road (near 133),,-41.18467269,174.9174072,5,,0,,Pacific/Auckland
 9268,9268,Fairfield Shops - Waiwhetu Road (near 197),,-41.21180815,174.9321551,4/5,,0,,Pacific/Auckland
@@ -1378,7 +1381,7 @@ MANO,MANO,Manor Park Station,,-41.156315,174.978929,6,,0,,Pacific/Auckland
 8361,8361,Silver Stream Railway Museum,,-41.14989409999999,174.9923013,6,,0,,Pacific/Auckland
 1380,1380,Raumati Road at Matai Road (opposite 68),,-40.92115685,174.989333,9,,0,,Pacific/Auckland
 5361,5361,Parklands Drive at Lynmouth Avenue,,-41.28955875,174.7270153,3,,0,,Pacific/Auckland
-5920,5920,Zealandia - Northland Tunnel Road,,-41.2865265,174.75482182,2,,0,,Pacific/Auckland
+5920,5920,Zealandia - Northland Tunnel Road,,-41.2865265,174.75482182,2/3,,0,,Pacific/Auckland
 8278,8278,Waddington Drive at Hay Street,,-41.20304194,174.9605199,5,,0,,Pacific/Auckland
 1275,1275,Guildford Drive (near 61),,-40.89806144,175.0018175,9,,0,,Pacific/Auckland
 2544,2544,Ayton Drive (near 33),,-41.11050598,174.892381,6,,0,,Pacific/Auckland
@@ -1491,7 +1494,7 @@ UPPE,UPPE,Upper Hutt Station,,-41.12623233,175.07031754,7,,0,,Pacific/Auckland
 7025,7025,Rongotai Road at Childers Terrace,,-41.31773462,174.793773,2,,0,,Pacific/Auckland
 9404,9404,Pinehaven Road at Forest Road,,-41.16185449,175.0141171,6,,0,,Pacific/Auckland
 5513,5513,Manners Street at Cuba Street - Stop B,,-41.29096552,174.7766131,1,,0,,Pacific/Auckland
-3904,3904,Middleton Road (near 409),,-41.19563331,174.82391778,4,,0,,Pacific/Auckland
+3904,3904,Middleton Road (near 409),,-41.19563331,174.82391778,3,,0,,Pacific/Auckland
 2521,2521,Mana Esplanade near Shops,,-41.10177436,174.8699817,6,,0,,Pacific/Auckland
 7716,7716,Brooklyn Road opposite Washington Avenue,,-41.30265533,174.7661804,2,,0,,Pacific/Auckland
 1228,1228,Gray Avenue at Eatwell Avenue (near 3),,-40.89401703,174.9908935,9,,0,,Pacific/Auckland
@@ -1668,7 +1671,7 @@ MANA2,MANA2,Mana Station,,-41.09528391,174.8681817,6,,0,MANA,
 1618,1618,Field Way at Konini Crescent (near 14),,-40.85983563,175.0294959,10,,0,,Pacific/Auckland
 6001,6001,Wellington Station - Stop C,,-41.27837975,174.77943604,1,,0,,Pacific/Auckland
 6952,6952,Buckley Road (near 146),,-41.33926205,174.7812717,3,,0,,Pacific/Auckland
-2112,2112,Cannons Creek Shops - Champion Street (opposite),,-41.14098215,174.86625655,5/6,,0,,Pacific/Auckland
+2112,2112,Cannons Creek Shops - Champion Street (opposite),,-41.14098215,174.86625655,5,,0,,Pacific/Auckland
 7132,7132,The Parade at Island Bay Shops,,-41.33443014,174.7733723,3,,0,,Pacific/Auckland
 7236,7236,Park Road at Rotherham Terrace (near 86),,-41.31197782999999,174.81964724,3,,0,,Pacific/Auckland
 8313,8313,Logie Street at Fenchurch Grove Walkway,,-41.17324854,174.9751279,6,,0,,Pacific/Auckland
@@ -1872,7 +1875,7 @@ POMA,POMA,Pomare Station,,-41.16945495,174.96972088,5,,0,,Pacific/Auckland
 7557,7557,Hataitai - Stop C,,-41.30381065,174.79441146,2,,0,,Pacific/Auckland
 7071,7071,Karaka Bay Road (opposite 495),,-41.29829472,174.8323831,3,,0,,Pacific/Auckland
 3430,3430,Guadeloupe Crescent at Mandeville Crescent,,-41.20920031,174.8213927,3,,0,,Pacific/Auckland
-2164,2164,Cannons Creek Shops - Champion Street,,-41.14110964,174.8660946,5/6,,0,,Pacific/Auckland
+2164,2164,Cannons Creek Shops - Champion Street,,-41.14110964,174.8660946,5,,0,,Pacific/Auckland
 1266,1266,Gray Avenue at Eatwell Avenue,,-40.89419709,174.9908989,9,,0,,Pacific/Auckland
 9532,9532,Wallaceville Animal Research Centre (opposite),,-41.13233255,175.0587221,7,,0,,Pacific/Auckland
 6232,6232,Hobart Street at Chelsea Street (near 107),,-41.31892291,174.8147677,3,,0,,Pacific/Auckland
@@ -2028,7 +2031,7 @@ TAKA2,TAKA2,Takapu Road Station,,-41.18529832,174.82825794,4,,0,TAKA,
 1544,1544,Barrett Drive at Queens Road,,-40.87226304,175.01384933,10,,0,,Pacific/Auckland
 5430,5430,Homebush Road (near 29),,-41.24925257999999,174.8061545,3,,0,,Pacific/Auckland
 5453,5453,Colway Street at Bombay Street,,-41.24993520999999,174.779678,3,,0,,Pacific/Auckland
-9837,9837,Seaview Marina - Marine Drive,,-41.24977157,174.907972,4,,0,,Pacific/Auckland
+9837,9837,Seaview Marina - Marine Drive,,-41.24977157,174.907972,4/5,,0,,Pacific/Auckland
 6725,6725,Mills Road opposite Vennell Street,,-41.31391919,174.76565605,2,,0,,Pacific/Auckland
 4932,4932,Mairangi Road opposite Warwick Street,,-41.26744063999999,174.7659471,2,,0,,Pacific/Auckland
 9364,9364,Tui Glen School (near 135),,-41.16959211,174.9834813,6,,0,,Pacific/Auckland
@@ -2095,7 +2098,7 @@ WELL,WELL,Wellington Station,,-41.27896857,174.78056172,1,,0,,Pacific/Auckland
 9148,9148,Birdwood Road (near 11),,-41.21677848,174.92644415,4,,0,,Pacific/Auckland
 8419,8419,Somme Road at Maadi Place,,-41.1441893,175.0250151,6,,0,,Pacific/Auckland
 7336,7336,Queens Drive at Sutherland Road,,-41.3326276,174.7908898,3,,0,,Pacific/Auckland
-8737,8737,Seaview Marina - Seaview Road,,-41.24959152,174.9079668,4,,0,,Pacific/Auckland
+8737,8737,Seaview Marina - Seaview Road,,-41.24959152,174.9079668,4/5,,0,,Pacific/Auckland
 1138,1138,Manly Street at Mahana Road (near 152),,-40.88045325,174.9887067,9,,0,,Pacific/Auckland
 1564,1564,Te Moana Road (near 167),,-40.8700822,175.0358605,10,,0,,Pacific/Auckland
 2128,2128,Warspite Avenue (near 367),,-41.12248206,174.87937697,5,,0,,Pacific/Auckland
@@ -2160,7 +2163,6 @@ MAST,MAST,Masterton Station,,-40.94043328,175.65474837,14,,0,,Pacific/Auckland
 6045,6045,Breaker Bay Road at Breaker Bay,,-41.33229261999999,174.8293591,3,,0,,Pacific/Auckland
 7100,7100,Robertson Street (near 16),,-41.34398268999999,174.761321,3,,0,,Pacific/Auckland
 2310,2310,Champion Street at Gloucester Street (near 179),,-41.13898935999999,174.8635324,5,,0,,Pacific/Auckland
-7916,7916,Wallace Street at Carrington Street,,-41.30576247,174.7749842,2,,0,,Pacific/Auckland
 2590,2590,Tweed Road at Spey Place,,-41.11307432,174.86624938,5,,0,,Pacific/Auckland
 3705,3705,Woodridge Drive at Cedarwood Street,,-41.21766941,174.8326023,3,,0,,Pacific/Auckland
 1966,1966,Harley Street (near 54),,-40.9654514,175.6326909,14,,0,,Pacific/Auckland
@@ -2268,7 +2270,7 @@ TAWA1,TAWA1,Tawa Station,,-41.169538,174.828352,4,,0,TAWA,
 9283,9283,Rata Street at Rimu Street (near 116),,-41.20050699,174.961279,5,,0,,Pacific/Auckland
 9980,9980,Wise Street at Derwent Street (near 30),,-41.25147633,174.9513456,5,,0,,Pacific/Auckland
 8052,8052,Dowse Drive at Magnolia Grove (near 24),,-41.21547343,174.87942,4,,0,,Pacific/Auckland
-3969,3969,Middleton Road (opposite 375),,-41.19894402,174.8206312,4,,0,,Pacific/Auckland
+3969,3969,Middleton Road (opposite 375),,-41.19894402,174.8206312,3,,0,,Pacific/Auckland
 8964,8964,Wellington Road at Dublin Street (near 128),,-41.24710016,174.9438162,5,,0,,Pacific/Auckland
 9981,9981,Wise Street at Thirlmere Street,,-41.25300475,174.9515104,5,,0,,Pacific/Auckland
 8998,8998,Dublin Street at Roberts Street,,-41.2172989,175.4525179,13,,0,,Pacific/Auckland
@@ -2776,7 +2778,7 @@ PUKE,PUKE,Pukerua Bay Station,,-41.03801419,174.88677691,7,,0,,Pacific/Auckland
 6557,6557,Hataitai Road (near 120),,-41.30195539999999,174.79691237,2,,0,,Pacific/Auckland
 9465,9465,Fergusson Drive at Golf Road,,-41.14161837999999,175.0226721,6,,0,,Pacific/Auckland
 3008,3008,St Brigid's School - Phillip Street (school stop),,-41.22251273,174.80185521,3,,0,,Pacific/Auckland
-3966,3966,Middleton Road opposite Richmond Hill Road,,-41.19217012,174.8274788,4,,0,,Pacific/Auckland
+3966,3966,Middleton Road opposite Richmond Hill Road,,-41.19217012,174.8274788,4/3,,0,,Pacific/Auckland
 6156,6156,The Esplanade (near 354),,-41.34794813,174.7670457,3,,0,,Pacific/Auckland
 6719,6719,Ohiro Road at Cleveland Street,,-41.30504018,174.763378,2,,0,,Pacific/Auckland
 9779,9779,Bell Road South,,-41.23541238,174.9156681,4,,0,,Pacific/Auckland

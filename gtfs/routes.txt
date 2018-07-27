@@ -69,7 +69,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1540,TZM,"154","Petone - Korokoro - Petone",,3,,6cace4,000000
 3,RAIL,"MEL","Melling Line (Melling - Wellington)",,2,,00364a,ffffff
 1500,TZM,"150","Kelson - Lower Hutt - Maungaraki - Petone",,3,,6cace4,000000
-31,MNM,"3a","Lyall Bay/Rongotai - Kilbirnie - Newtown - Wellington",,3,,5e9732,000000
+31,MNM,"3a","Kilbirnie - Newtown - Wellington (First weekday morning service for route 3)",,3,,5e9732,000000
 1150,TZM,"115","Upper Hutt - Pinehaven - Upper Hutt",,3,,6cace4,000000
 1210,TZM,"121","Stokes Valley Heights - Naenae - Lower Hutt - Seaview",,3,,6cace4,000000
 5,RAIL,"HVL","Hutt Valley Line (Upper Hutt - Wellington)",,2,,00364a,ffffff
@@ -82,7 +82,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 121,NBM,"12e","Strathmore Park - Kilbirnie - Hataitai - Wellington",,3,,636466,ffffff
 190,TZM,"19","Johnsonville - Churton Park - Johnsonville",,3,,6cace4,000000
 810,NBM,"81","Eastbourne - Petone - Wellington",,3,,636466,ffffff
-361,MNM,"36a","Lyall Bay - Kilbirnie - Hataitai - Wellington",,3,,636466,ffffff
+361,MNM,"36a","Kilbirnie - Hataitai - Wellington (First weekday morning service for route 36)",,3,,636466,ffffff
 9918,NBM,"N8","After Midnight (Lower Hutt - Petone - Wellington)",,3,,000000,ffffff
 130,NBM,"13","Mairangi - Glenmore Street - Brandon Street",,3,,636466,ffffff
 2020,TZM,"202","Masterton - Masterton South - Masterton",,3,,636466,ffffff
