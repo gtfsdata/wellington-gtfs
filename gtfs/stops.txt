@@ -525,7 +525,6 @@ LAMB,LAMB,Lambton Quay - Cable Car Station,,-41.2842116,174.77509141,1,,0,,Pacif
 2752,2752,James Cook Drive (near 35),,-41.11378012,174.9014076,6,,0,,Pacific/Auckland
 9913,9913,Parenga Street at Ngaturi Grove,,-41.28581259,174.9502192,5,,0,,Pacific/Auckland
 9178,9178,Bell Road at Gracefield School (near 18),,-41.23200321,174.9148526,4,,0,,Pacific/Auckland
-6327,6327,Onepu Road at Coutts Street,,-41.32027689597885,174.79585243967296,3,,0,,Pacific/Auckland
 5012,5012,Lambton Central - Stop A,,-41.28260336,174.7756698,1,,0,,Pacific/Auckland
 2524,2524,Oak Avenue (near 14),,-41.10416356999999,174.8781471,6,,0,,Pacific/Auckland
 3522,3522,Glanmire Road at Turville Crescent (near 85),,-41.22888927999999,174.8237288,3,,0,,Pacific/Auckland
@@ -879,7 +878,6 @@ CROF,CROF,Crofton Downs Station,,-41.25504083,174.76649879,3,,0,,Pacific/Aucklan
 2126,2126,Warspite Avenue at Penguin Grove (near 335),,-41.12465396,174.8809947,5,,0,,Pacific/Auckland
 9732,9732,Seaview Road (near 47),,-41.24012864,174.9082881,4,,0,,Pacific/Auckland
 3760,3760,Baylands Drive (near 82),,-41.22230092,174.8302264,3,,0,,Pacific/Auckland
-2542,2542,Ayton Drive (near 5),,-41.108578,174.890603,6,,0,,Pacific/Auckland
 8627,8627,Plateau Road (near 232),,-41.09708942,175.14584337,8,,0,,Pacific/Auckland
 4522,4522,Kuratawhiti Street and Mole Street,,-41.07315088,175.4542911,12,,0,,Pacific/Auckland
 6125,6125,Adelaide Road (near 493),,-41.32125019,174.775285,2,,0,,Pacific/Auckland
@@ -1170,9 +1168,9 @@ SIML,SIML,Simla Crescent Station,,-41.24679734,174.78433654,3,,0,,Pacific/Auckla
 2938,2938,Hiwi Street at Pikarere Street,,-41.11419735,174.83097028,5,,0,,Pacific/Auckland
 2846,2846,Dimock Street (near 146),,-41.09897243,174.8426343,5,,0,,Pacific/Auckland
 7543,7543,Evans Bay Parade (near 98),,-41.29263347,174.8025738,2,,0,,Pacific/Auckland
+7335,7335,Lyall Parade at Onepu Road (temporary stop),,-41.32925169675196,174.79509788167553,3,,0,,Pacific/Auckland
 7787,7787,Raroa Road opposite Mt Pleasant Road,,-41.294012,174.758032,2,,0,,Pacific/Auckland
 8274,8274,Waddington Drive at Keys Street (near 98),,-41.20656927,174.9490562,5,,0,,Pacific/Auckland
-7335,7335,Lyall Parade at Onepu Road (temporary stop),,-41.32925169675196,174.79509788167553,3,,0,,Pacific/Auckland
 7256,7256,Kaikoura Street at Akaroa Drive (near 2),,-41.30725599,174.8177888,3,,0,,Pacific/Auckland
 2560,2560,Leeward Drive (near 53),,-41.10735803,174.883973,6,,0,,Pacific/Auckland
 7920,7920,Riddiford Street at Gordon Street,,-41.31536587,174.78029826,2,,0,,Pacific/Auckland
@@ -1909,7 +1907,6 @@ POMA,POMA,Pomare Station,,-41.16945495,174.96972088,5,,0,,Pacific/Auckland
 3266,3266,Ngauranga Gorge (Kiwi Point),,-41.23835001,174.80561093,3,,0,,Pacific/Auckland
 1631,1631,Kotare Street opposite Kaka Street,,-40.87216999999999,175.076611,10,,0,,Pacific/Auckland
 1893,1893,Masonic Village,,-40.94154225,175.6344726,14,,0,,Pacific/Auckland
-5001,5001,Courtenay Place - Stop B,,-41.29396736,174.78303838,1,,0,,Pacific/Auckland
 8177,8177,Bell Road (near 55),,-41.2300325,174.9141985,4,,0,,Pacific/Auckland
 5432,5432,Onslow Road (opposite 47),,-41.25082617999999,174.8034528,3,,0,,Pacific/Auckland
 7080,7080,Miramar Avenue at Portsmouth Road,,-41.31512989,174.81315196,3,,0,,Pacific/Auckland
@@ -2633,7 +2630,6 @@ MATA,MATA,Matarawa Station,,-41.04880879,175.44873607,13,,0,,Pacific/Auckland
 5427,5427,Homebush Road opposite Benares Street,,-41.24672041,174.8068008,3,,0,,Pacific/Auckland
 8018,8018,Jackson Street at Patrick Street,,-41.22856148,174.888743,4,,0,,Pacific/Auckland
 8240,8240,Reynolds Street (near 140),,-41.17325124,174.9591543,5,,0,,Pacific/Auckland
-2775,2775,Aotea Drive (near 27),,-41.12515805999999,174.8660172,5,,0,,Pacific/Auckland
 5933,5933,Mairangi Road at Dorset Way,,-41.26698497,174.766293,2,,0,,Pacific/Auckland
 6935,6935,View Road at Hungerford Road (near 97),,-41.33849462,174.7900945,3,,0,,Pacific/Auckland
 1965,1965,Manchester Street at Dover Place,,-40.96325323,175.6303459,14,,0,,Pacific/Auckland
@@ -2853,6 +2849,7 @@ PUKE,PUKE,Pukerua Bay Station,,-41.03801419,174.88677691,7,,0,,Pacific/Auckland
 8348,8348,Park Road at Natusch Road (near 12),,-41.19308772,174.9205147,5,,0,,Pacific/Auckland
 3828,3828,Nalanda Crescent at Rajkot Terrace,,-41.23411658,174.7948796,3,,0,,Pacific/Auckland
 6048,6048,Breaker Bay Road at Flax Bay (near 145),,-41.33624931,174.8240921,3,,0,,Pacific/Auckland
+3927,3927,"Hinau Street (temporary school bus stop, near 3)",,-41.16246879175546,174.83143218363995,4,,0,,Pacific/Auckland
 4411,4411,Cockayne Road at Bankot Crescent (near 155),,-41.25213438,174.7830795,3,,0,,Pacific/Auckland
 9548,9548,Upper Hutt College - Moonshine Road,,-41.12712971,175.04159474,7,,0,,Pacific/Auckland
 7015,7015,Adelaide Road (near 80),,-41.30399098,174.7788779,2,,0,,Pacific/Auckland
