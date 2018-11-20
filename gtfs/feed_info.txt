@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Greater Wellington Regional Council,http://www.metlink.org.nz,en,20181111,20181220,20181410 School Term Blocks_20181105-091646
+Greater Wellington Regional Council,http://www.metlink.org.nz,en,20181111,20181222,20181410 School Term Blocks_20181109-114142
